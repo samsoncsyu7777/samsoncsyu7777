@@ -4,7 +4,7 @@
 + A Web and Mobile Software Engineer from Toronto 🇨🇦 
 ```
 
-diff {
+@setting {
   font-size: 30;
 }
 
