@@ -1,7 +1,7 @@
 <h1 align="center" style="color: red">Hi welcome! I'm Samson 👋</h1>
 
 ```diff
-+ <font size="1">A Web and Mobile Software Engineer from Toronto 🇨🇦 </font>
++ <p size="1">A Web and Mobile Software Engineer from Toronto 🇨🇦 </p>
 ```
 
 ### I am interested in developing Web and Mobile Applications using ReactJS, TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS.
