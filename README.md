@@ -1,4 +1,4 @@
-<p align="center" style="color: red">Hi welcome! I'm Samson 👋</p>
+<h1 align="center" style="color: red">Hi welcome! I'm Samson 👋</h1>
 ### I am a Software Engineer from Toronto 🇨🇦 . 
 ### I am interested in developing Web and Mobile Applications using ReactJS, TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS.
 
