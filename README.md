@@ -2,12 +2,13 @@
 <h3 align="center">A Web and Mobile Software Engineer from Toronto 🇨🇦 </h3>
 <div align="center">
   <big>I am interested in developing Web and Mobile Applications using </big>
+  <a href="https://reactjs.org/">
     <img
       src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ"
       height="30px"
-      href="https://reactjs.org/"
       alt="ReactJS"
     />
+  </a>
   <big> TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
 </div>
 
