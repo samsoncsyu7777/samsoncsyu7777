@@ -14,6 +14,8 @@
       src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ"
       height="30px"
       alt="ReactJS"
+      -ms-transform="translate(-50%, -50%)"
+      transform="translate(-50%, -50%)"
     />
   </a>
   <big> TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
