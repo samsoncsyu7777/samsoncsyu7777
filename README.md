@@ -11,6 +11,14 @@
 ````diff
 + Green Text
 - Red Text
+!! G!reen Text
+@ R@ed Text
+# G#reen Text
+$ R$ed Text
+% G%reen Text
+^ R^ed Text
+& G&reen Text
+* R*ed Text
 `````
 
 
