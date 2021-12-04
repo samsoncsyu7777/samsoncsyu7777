@@ -2,7 +2,8 @@
 
 ### I am a Software Engineer from Toronto 🇨🇦 . 
 ### I am interested in developing Web and Mobile Applications using ReactJS, TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS.
-
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- 
 <!--
 **samsoncsyu7777/samsoncsyu7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
