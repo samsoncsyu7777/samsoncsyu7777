@@ -3,7 +3,7 @@
 <div align="center">
   <big>I am interested in developing Web and Mobile Applications using </big>
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
+      src="https://reactjs.org/logo-og.png"
       height="30px"
     />
   <big>ReactJS, TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
