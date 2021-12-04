@@ -2,9 +2,11 @@
 <h3 align="center">A Web and Mobile Software Engineer from Toronto 🇨🇦 </h3>
 <div
   align="center"
-  display="flex"
-  justify-content="center"
-  align-items="center"
+  position="absolute"
+  top="50%"
+  left="50%"
+  -ms-transform="translate(-50%, -50%)"
+  transform="translate(-50%, -50%)"
 >
   <big>I am interested in developing Web and Mobile Applications using </big>
   <a href="https://reactjs.org/">
