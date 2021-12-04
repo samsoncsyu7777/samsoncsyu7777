@@ -8,7 +8,7 @@
   -ms-transform="translate(-50%, -50%)"
   transform="translate(-50%, -50%)"
 >
-  <big>I am interested in developing Web and Mobile Applications using </big>
+  <big line-height="30px">I am interested in developing Web and Mobile Applications using </big>
   <a href="https://reactjs.org/">
     <img
       src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ"
