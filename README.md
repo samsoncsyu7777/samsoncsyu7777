@@ -11,7 +11,7 @@
       alt="ReactJS"
     />
   </a>
-  <a href="https://reactjs.org/">
+  <a href="https://www.typescriptlang.org/">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
       height="30px"
