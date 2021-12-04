@@ -3,10 +3,8 @@
 <div align="center">
   <big>I am interested in developing Web and Mobile Applications using </big>
     <img
-      src="https://reactjs.org/logo-og.png"
+      src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ"
       height="30px"
-      width="30px"
-      object-fit=cover
     />
   <big>ReactJS, TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
 </div>
