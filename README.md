@@ -1,8 +1,8 @@
 <h1 align="center" style="color: red">Hi welcome! I'm Samson 👋</h1>
 
-```diff
+``diff
 + A Web and Mobile Software Engineer from Toronto 🇨🇦 
-```
+``
 
 ### I am interested in developing Web and Mobile Applications using ReactJS, TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS.
 
