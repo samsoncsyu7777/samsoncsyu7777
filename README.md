@@ -9,7 +9,7 @@
   <big>I am interested in developing Web and Mobile Applications using </big>
   <a href="https://reactjs.org/">
     <img
-      src="https://www.import.io/wp-content/uploads/2017/10/React-logo.png"
+      src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ"
       height="30px"
       alt="ReactJS"
     />
@@ -28,7 +28,7 @@
 - RED APPLE (&#x1F34E;): 🍎
 
 <span style="color:blue">some *This is Blue italic.* text</span>
-https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ
+
 ````diff
 + Green Text
 - Red Text
