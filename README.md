@@ -6,7 +6,7 @@
       src="https://reactjs.org/logo-og.png"
       height="30px"
       width="30px"
-      object-fit="cover"
+      object-fit=cover
     />
   <big>ReactJS, TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
 </div>
