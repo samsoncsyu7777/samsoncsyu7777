@@ -8,6 +8,9 @@
 
 <span style="color:blue">some *This is Blue italic.* text</span>
 
+````diff
++ Green Text
+- Red Text
 
 <!--
 **samsoncsyu7777/samsoncsyu7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
