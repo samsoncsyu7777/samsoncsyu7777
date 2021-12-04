@@ -1,8 +1,8 @@
-```css
 <h1 align="center" style="color: red">Hi welcome! I'm Samson 👋</h1>
-```
 
-### I am a Software Engineer from Toronto 🇨🇦 . 
+``diff
++ A Web and Mobile Software Engineer from Toronto 🇨🇦 +
+``
 ### I am interested in developing Web and Mobile Applications using ReactJS, TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS.
 
 - ![#f03c15]a(https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
