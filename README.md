@@ -5,8 +5,10 @@
     <img
       src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ"
       height="30px"
+      href="https://reactjs.org/"
+      alt="ReactJS"
     />
-  <big>ReactJS, TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
+  <big> TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
 </div>
 
 
