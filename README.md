@@ -14,6 +14,7 @@
       src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ"
       height="30px"
       alt="ReactJS"
+      position="absolute"
       -ms-transform="translate(-50%, -50%)"
       transform="translate(-50%, -50%)"
     />
