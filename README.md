@@ -11,8 +11,17 @@
       alt="ReactJS"
     />
   </a>
+  <a href="https://reactjs.org/">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+      height="30px"
+      alt="ReactJS"
+    />
+    <big>TypeScript</big>
+  </a>
   <big> TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
 </div>
+
 
 
 ```diff
