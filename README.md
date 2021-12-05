@@ -67,7 +67,7 @@
   </a>
   <a href="https://www.java.com/en/">
     <img
-      src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
+      src="https://image.pngaaa.com/493/2459493-middle.png"
       height="30px"
       alt="Java"
     />
@@ -76,7 +76,7 @@
   <big>  Java, Firebase, and AWS</big>
 </div>
 
-
+https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png
 
 ```diff
 + <p size="1">A Web and Mobile Software Engineer from Toronto 🇨🇦 </p>
