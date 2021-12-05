@@ -39,7 +39,15 @@
     />
     <big>MongoDB&nbsp;&nbsp;</big>
   </a>
-  <big> MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
+  <a href="https://www.postgresql.org/">
+    <img
+      src="https://www.postgresql.org/media/img/about/press/elephant.png"
+      height="30px"
+      alt="PostgreSQL"
+    />
+    <big>PostgreSQL&nbsp;&nbsp;</big>
+  </a>
+  <big>  Redux, SwiftUI, Java, Firebase, and AWS</big>
 </div>
 
 
