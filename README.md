@@ -185,3 +185,30 @@ My Contributions:
 + Deploy web application to Firebase
 ```
 
+### [5. Mathematics Interactive Teaching Android Applications](https://play.google.com/store/apps/details?id=com.samsoncsyu.hcfandlcm)
+```diff
+- Tech Stack: React Native, React Native Paper, Android, Play Store
+- Personal Business
+
+My Contributions:
++ Attractive UI Design
++ Keypad Color Transitions
++ Create Layout responsive to all sizes of mobiles and tablets
++ Create functions to analyze the inputted calculation steps and answers and provide semantic responses to students
++ Gather all metadata needed for the Play Store review
++ Deploy applications to the Play Store
+```
+
+### [6. Mathematics Interactive Mock Exam iOS Applications](https://drive.google.com/file/d/11fdSP9CW0v3TpnFuhES3dyb7M_NAPvfj/view?usp=sharing)
+```diff
+- Tech Stack: Swift, iOS, App Store
+- Personal Business
+
+My Contributions:
++ Attractive UI Design
++ Create Animations
++ Create Layout responsive to all sizes of iPhones and iPads
++ Create functions to analyze the inputted calculation steps and answers and provide semantic responses to students
++ Gather all metadata needed for App Store review
++ Deploy applications to App Store
+```
