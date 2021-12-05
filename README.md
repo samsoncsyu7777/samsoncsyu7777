@@ -81,6 +81,14 @@
     />
     <big>Firebase&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
+  <a href="https://aws.amazon.com/">
+    <img
+      src="https://www.laurel-group.com/wp-content/uploads/AWS-logo.png"
+      height="30px"
+      alt="AWS"
+    />
+    <big>AWS&nbsp;&nbsp;&nbsp;&nbsp;</big>
+  </a>
   <big>  Java, Firebase, and AWS</big>
 </div>
 
