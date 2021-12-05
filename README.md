@@ -22,7 +22,7 @@
   </a>
   <a href="https://nodejs.org/en/">
     <img
-      src="https://png.pngitem.com/pimgs/s/168-1680234_nodejs-logo-svg-hd-png-download.png"
+      src="https://nodejs.org/static/images/logo.svg"
       height="30px"
       alt="NodeJS"
     />
