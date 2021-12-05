@@ -111,6 +111,8 @@
 ### [1. Pet Sitter Web Application](https://github.com/hatchways/team-snowman)
 ```diff
 + Tech Stack: React, Material-UI, Node.js, Express, and MongoDB
++ Authentication: JWT and Token
+My Contributions:
 + Front End Sensitive Information Storage: useContext
 + Authentication: JWT and Token
 + Image Storage: AWS S3
