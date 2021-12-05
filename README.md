@@ -3,7 +3,9 @@
 <div
   align="center"
 >
-  <big>I am interested in developing Web and Mobile Applications using </big>
+  <div>
+    <big>I am interested in developing Web and Mobile Applications using </big>
+  </div>
   <a href="https://reactjs.org/">
     <img
       src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
