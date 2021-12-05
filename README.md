@@ -75,7 +75,7 @@
   </a>
   <a href="https://firebase.google.com/">
     <img
-      src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png"
+      src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png"
       height="30px"
       alt="Firebase"
     />
