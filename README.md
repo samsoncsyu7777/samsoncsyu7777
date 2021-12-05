@@ -110,7 +110,7 @@
 
 ### [1. Pet Sitter Web Application](https://github.com/hatchways/team-snowman)
 ```diff
-- Tech Stack: React, Material-UI, Node.js, Express, and MongoDB
+- Tech Stack: TypeScript, React, Material-UI, Node.js, Express, and MongoDB
 - Authentication: JWT and Token
 - Work in a Team of 3
 
@@ -152,42 +152,36 @@ My Contributions:
 + Calculate Order Total in Back End with Quantity, Price, and Discount for payment
 ```
 
+### [3. Mathematics Instant Response Mock Exam Web Application(Private Product)](https://fractionmultiplydivide.web.app/?unit=0)
 ```diff
-+ <p size="1">A Web and Mobile Software Engineer from Toronto 🇨🇦 </p>
+- Front End Tech Stack: React, Material-UI, Firebase
+- Back End Tech Stack: Node.js, Express, Heroku, FireStore, Stripe API
+- Personal Business
+
+My Contributions:
++ Attractive UI Design
++ Background and Keypad Color Transitions
++ Create Layout responsive to all sizes of monitors, laptops, mobiles and tablets
++ Create functions to analyze the inputted calculation steps and answers and provide semantic responses to students
++ Create routes for the submissions of scores, Stripe payment, and login
++ Create Models in Node.js/Express server
++ Connect to FireStore
++ Deploy server to Heroku
++ Setup for Stripe payment
++ Deploy web application to Firebase
 ```
 
-### I am interested in developing Web and Mobile Applications using ReactJS, TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS.
+### [4. Mathematics Instant Response Teaching Web Application](https://github.com/samsoncsyu7777/react-redux-typescript-multi-digit-division-with-questions)
+```diff
+- Tech Stack: TypeScript, Redux, React, Material-UI, Firebase
+- Personal Project Dedicated to Canada, US, UK, Austrilia, Hong Kong, Taiwan, and Macao Education Departments
 
-- ![#f03c15]a(https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- RED APPLE (&#x1F34E;): 🍎
+My Contributions:
++ Create Redux Store to store essential information
++ Attractive UI Design
++ Background and Keypad Color Transitions
++ Create Layout responsive to all sizes of monitors, laptops, mobiles and tablets
++ Create functions to analyze the inputted calculation steps and answers and provide semantic responses to students
++ Deploy web application to Firebase
+```
 
-<span style="color:blue">some *This is Blue italic.* text</span>
-
-````diff
-+ Green Text
-- Red Text
-!! G!reen Text
-@ R@ed Text
-# G#reen Text
-$ R$ed Text
-% G%reen Text
-^ R^ed Text
-& G&reen Text
-* R*ed Text
-`````
-
-
-<!--
-**samsoncsyu7777/samsoncsyu7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
