@@ -106,6 +106,8 @@
   </a>
 </div>
 
+## Essential Projects in Finace and Education
+
 
 ```diff
 + <p size="1">A Web and Mobile Software Engineer from Toronto 🇨🇦 </p>
