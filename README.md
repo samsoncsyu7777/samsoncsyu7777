@@ -67,7 +67,7 @@
   </a>
   <a href="https://www.java.com/en/">
     <img
-      src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png"
+      src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png"
       height="30px"
       alt="Java"
     />
