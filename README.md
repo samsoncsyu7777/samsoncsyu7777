@@ -67,7 +67,7 @@
   </a>
   <a href="https://www.java.com/en/">
     <img
-      src="https://img.favpng.com/19/25/8/java-programming-language-programmer-computer-programming-logo-png-favpng-fhppYS113xSPzB7babpSMhrfP.jpg"
+      src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg"
       height="30px"
       alt="Java"
     />
