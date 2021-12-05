@@ -57,8 +57,16 @@
     />
     <big>Redux&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
+  <a href="https://developer.apple.com/swift/">
+    <img
+      src="https://d2908q01vomqb2.cloudfront.net/0716d9708d321ffb6a00818614779e779925365c/2021/08/26/swift.png"
+      height="30px"
+      alt="Swift"
+    />
+    <big>Swift&nbsp;&nbsp;&nbsp;&nbsp;</big>
+  </a>
   
-  <big>  Redux, SwiftUI, Java, Firebase, and AWS</big>
+  <big>  SwiftUI, Java, Firebase, and AWS</big>
 </div>
 
 
