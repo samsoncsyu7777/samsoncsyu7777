@@ -113,6 +113,7 @@
 - Tech Stack: React, Material-UI, Node.js, Express, and MongoDB
 - Authentication: JWT and Token
 - Work in a Team of 3
+
 My Contributions:
 + UI design using Material-UI
 + Form and Submit using Formit library
@@ -126,10 +127,13 @@ My Contributions:
 + Color Transitions using CSS
 + Product Tour using reactour library
 ```
+
 ### [2. iOS and Android Point of Sale Applications(Private Products)](http://soundpays.com/wp/company/)
 ```diff
 - Front End Tech Stack: SwiftUI, Java, XML
 - Back End Tech Stack: Java, PostgreSQL, CI/CD to AWS, Soundpays Payment API, Square Payment API
+- Work in a Team of 2
+
 My Contributions:
 + Create UI for both iOS and Android Applications
 + Create Layout responsive to all sizes of mobiles and tablets
