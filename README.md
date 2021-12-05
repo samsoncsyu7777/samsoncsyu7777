@@ -6,7 +6,7 @@
   <big>I am interested in developing Web and Mobile Applications using </big>
   <a href="https://reactjs.org/">
     <img
-      src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ"
+      src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png"
       height="30px"
       alt="ReactJS"
     />
