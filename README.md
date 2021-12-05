@@ -28,7 +28,18 @@
     />
     <big>NodeJS&nbsp;&nbsp;</big>
   </a>
-  <big> TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
+  <a href="https://expressjs.com/">
+    <big>Express&nbsp;&nbsp;</big>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img
+      src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld"
+      height="30px"
+      alt="MongoDB"
+    />
+    <big>MongoDB&nbsp;&nbsp;</big>
+  </a>
+  <big> MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
 </div>
 
 
