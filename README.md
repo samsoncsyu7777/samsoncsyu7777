@@ -110,9 +110,9 @@
 
 ### [1. Pet Sitter Web Application](https://github.com/hatchways/team-snowman)
 ```diff
-+ Tech Stack: React, Material-UI, Node.js, Express, and MongoDB
-+ Authentication: JWT and Token
-+ Work in a Team of 3
+- Tech Stack: React, Material-UI, Node.js, Express, and MongoDB
+- Authentication: JWT and Token
+- Work in a Team of 3
 My Contributions:
 + UI design using Material-UI
 + Form and Submit using Formit library
@@ -128,8 +128,12 @@ My Contributions:
 ```
 ### [2. iOS and Android Point of Sale Applications(Private Products)](http://soundpays.com/wp/company/)
 ```diff
-+ Front End Tech Stack: SwiftUI, Java, XML
-+ Back End Tech Stack: Java, PostgreSQL, CI/CD to AWS, Soundpays Payment API, Square Payment API
+- Front End Tech Stack: SwiftUI, Java, XML
+- Back End Tech Stack: Java, PostgreSQL, CI/CD to AWS, Soundpays Payment API, Square Payment API
+My Contributions:
++ Create UI for both iOS and Android Applications
++ Create Models of Retailers, Products, and Orders for Point of Sale
++ Create Models of Payment details for 
 ```
 
 ```diff
