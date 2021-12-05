@@ -106,7 +106,16 @@
   </a>
 </div>
 
-## Essential Projects in Finace and Education
+## Essential Projects in Commerce and Education
+
+### [1. Pet Sitter Web Application](https://github.com/hatchways/team-snowman)
+```diff
++ Tech Stack: React, Material-UI, Node.js, Express, and MongoDB
++ Front End Sensitive Information Storage: useContext
++ Authentication: JWT and Token
++ Image Storage: AWS S3
++ Payment: Stripe
+```
 
 
 ```diff
