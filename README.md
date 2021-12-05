@@ -10,7 +10,7 @@
       height="30px"
       alt="ReactJS"
     />
-    <big>React  </big>
+    <big>React&nbsp;&nbsp;</big>
   </a>
   <a href="https://www.typescriptlang.org/">
     <img
@@ -18,7 +18,7 @@
       height="30px"
       alt="TypeScript"
     />
-    <big>TypeScript</big>
+    <big>TypeScript&nbsp;&nbsp;</big>
   </a>
   <big> TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
 </div>
