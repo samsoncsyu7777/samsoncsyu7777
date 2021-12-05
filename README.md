@@ -4,7 +4,7 @@
   align="center"
 >
   <div>
-    <big>I am interested in developing Web and Mobile Applications using </big>
+    <big>I have experience in developing Web and Mobile Applications using </big>
   </div>
   <a href="https://reactjs.org/">
     <img
@@ -96,6 +96,14 @@
       alt="Stripe"
     />
     <big>Stripe&nbsp;&nbsp;&nbsp;&nbsp;</big>
+  </a>
+  <a href="https://squareup.com/ca/en">
+    <img
+      src="https://logos-download.com/wp-content/uploads/2020/06/Square_Logo.png"
+      height="30px"
+      alt="Square"
+    />
+    <big>&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
 </div>
 
