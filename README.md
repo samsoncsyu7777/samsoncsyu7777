@@ -113,10 +113,17 @@
 + Tech Stack: React, Material-UI, Node.js, Express, and MongoDB
 + Authentication: JWT and Token
 My Contributions:
-+ Front End Sensitive Information Storage: useContext
-+ Authentication: JWT and Token
-+ Image Storage: AWS S3
-+ Payment: Stripe
++ UI design using Material-UI
++ Form and Submit using Formit library
++ Front End Sensitive Information Storage using useContext
++ Protect Logged In Pages with Protected Routes
++ Create Route for Image Storage in AWS S3 using Multer in Back End
++ Create Customer Route, Create Payment Method Route, Create Payment Intent Route to Stripe's Subscription API in Back End
++ Create Stripe Payment Element and fetch Client_Secret in Front End
++ UI Transitions using Material-UI Collapse, Grow, and Slide
++ Text Animations using react-text-transition library
++ Color Transitions using CSS
++ Product Tour using reactour library
 ```
 
 
