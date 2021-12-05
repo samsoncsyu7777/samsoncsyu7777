@@ -65,8 +65,15 @@
     />
     <big>Swift&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
-  
-  <big>  SwiftUI, Java, Firebase, and AWS</big>
+  <a href="https://www.java.com/en/">
+    <img
+      src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png"
+      height="30px"
+      alt="Java"
+    />
+    <big>Java&nbsp;&nbsp;&nbsp;&nbsp;</big>
+  </a>
+  <big>  Java, Firebase, and AWS</big>
 </div>
 
 
