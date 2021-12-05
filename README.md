@@ -90,6 +90,14 @@
     />
     <big>AWS&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
+  <a href="https://stripe.com/">
+    <img
+      src="https://stripe.com/img/v3/home/twitter.png"
+      height="30px"
+      alt="Stripe"
+    />
+    <big>Stripe&nbsp;&nbsp;&nbsp;&nbsp;</big>
+  </a>
 </div>
 
 
