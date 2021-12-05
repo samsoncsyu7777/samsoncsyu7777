@@ -67,7 +67,7 @@
   </a>
   <a href="https://www.java.com/en/">
     <img
-      src="https://cdn-icons-png.flaticon.com/512/121/121152.png"
+      src="https://img.favpng.com/19/25/8/java-programming-language-programmer-computer-programming-logo-png-favpng-fhppYS113xSPzB7babpSMhrfP.jpg"
       height="30px"
       alt="Java"
     />
