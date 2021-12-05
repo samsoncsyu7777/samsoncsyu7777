@@ -103,7 +103,6 @@
       height="30px"
       alt="Square"
     />
-    <big>&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
 </div>
 
