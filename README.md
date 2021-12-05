@@ -132,8 +132,20 @@ My Contributions:
 - Back End Tech Stack: Java, PostgreSQL, CI/CD to AWS, Soundpays Payment API, Square Payment API
 My Contributions:
 + Create UI for both iOS and Android Applications
++ Create Layout responsive to all sizes of mobiles and tablets
 + Create Models of Retailers, Products, and Orders for Point of Sale
-+ Create Models of Payment details for 
++ Create Models of Payment details for Soundpays Payment and Square Payment
++ Create Routes to Point of Sale API, Soundpays Payment API, Square Payment API
++ Create Soundpays Component to emit sound waves to progress Soundpays Payment
++ Create Square Component to connect to Square Different Payment Devices and Square Application to progress Square Payment
++ Create Barcode Component to scar barcodes
++ Create Input Form for Searching and Creation of Orders
++ Provide Discount options to Retailers and post Discount details to APIs
++ Payment Error handling
++ Revise Point of Sale API using Java
++ Revise Models of Retailers, Products, and Orders in Back End
++ Create Routes for creating, getting, deleting, updating Retailers, Products, and Orders in Back End
++ Calculate Order Total in Back End with Quantity, Price, and Discount for payment
 ```
 
 ```diff
