@@ -20,6 +20,14 @@
     />
     <big>TypeScript&nbsp;&nbsp;</big>
   </a>
+  <a href="https://nodejs.org/en/">
+    <img
+      src="https://png.pngitem.com/pimgs/s/168-1680234_nodejs-logo-svg-hd-png-download.png"
+      height="30px"
+      alt="NodeJS"
+    />
+    <big>NodeJS&nbsp;&nbsp;</big>
+  </a>
   <big> TypeScript, NodeJS, Express, MongoDB, PostgreSQL, Redux, SwiftUI, Java, Firebase, and AWS</big>
 </div>
 
