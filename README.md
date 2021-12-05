@@ -67,7 +67,7 @@
   </a>
   <a href="https://www.java.com/en/">
     <img
-      src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png"
+      src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
       height="30px"
       alt="Java"
     />
