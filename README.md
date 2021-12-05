@@ -112,7 +112,6 @@
   </a>
 </div>
 
-https://logos-download.com/wp-content/uploads/2020/06/Square_Logo.png
 ## Essential Projects in Commerce and Education
 
 ### [1. Pet Sitter Web Application](https://github.com/hatchways/team-snowman)
