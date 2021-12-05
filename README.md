@@ -10,7 +10,7 @@
       height="30px"
       alt="ReactJS"
     />
-    <big>React</big>
+    <big>React  </big>
   </a>
   <a href="https://www.typescriptlang.org/">
     <img
