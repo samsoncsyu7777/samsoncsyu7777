@@ -12,7 +12,7 @@
       height="30px"
       alt="ReactJS"
     />
-    <big>React&nbsp;&nbsp;</big>
+    <big>React&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
   <a href="https://www.typescriptlang.org/">
     <img
@@ -20,7 +20,7 @@
       height="30px"
       alt="TypeScript"
     />
-    <big>TypeScript&nbsp;&nbsp;</big>
+    <big>TypeScript&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
   <a href="https://nodejs.org/en/">
     <img
@@ -31,7 +31,7 @@
     <big>NodeJS&nbsp;&nbsp;</big>
   </a>
   <a href="https://expressjs.com/">
-    <big>Express&nbsp;&nbsp;</big>
+    <big>Express&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
   <a href="https://www.mongodb.com/">
     <img
@@ -39,7 +39,7 @@
       height="30px"
       alt="MongoDB"
     />
-    <big>MongoDB&nbsp;&nbsp;</big>
+    <big>MongoDB&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
   <a href="https://www.postgresql.org/">
     <img
@@ -47,8 +47,17 @@
       height="30px"
       alt="PostgreSQL"
     />
-    <big>PostgreSQL&nbsp;&nbsp;</big>
+    <big>PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;</big>
   </a>
+  <a href="https://redux.js.org/">
+    <img
+      src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"
+      height="30px"
+      alt="Redux"
+    />
+    <big>Redux&nbsp;&nbsp;&nbsp;&nbsp;</big>
+  </a>
+  
   <big>  Redux, SwiftUI, Java, Firebase, and AWS</big>
 </div>
 
