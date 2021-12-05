@@ -104,13 +104,14 @@
   </a>
   <a href="https://squareup.com/ca/en">
     <img
-      src="https://logos-download.com/wp-content/uploads/2020/06/Square_Logo.png"
+      src="https://1000logos.net/wp-content/uploads/2019/05/Square-symbol.jpg"
       height="30px"
       alt="Square"
     />
   </a>
 </div>
 
+https://logos-download.com/wp-content/uploads/2020/06/Square_Logo.png
 ## Essential Projects in Commerce and Education
 
 ### [1. Pet Sitter Web Application](https://github.com/hatchways/team-snowman)
