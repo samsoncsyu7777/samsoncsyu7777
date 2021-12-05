@@ -6,16 +6,17 @@
   <big>I am interested in developing Web and Mobile Applications using </big>
   <a href="https://reactjs.org/">
     <img
-      src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png"
+      src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
       height="30px"
       alt="ReactJS"
     />
+    <big>React</big>
   </a>
   <a href="https://www.typescriptlang.org/">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
       height="30px"
-      alt="ReactJS"
+      alt="TypeScript"
     />
     <big>TypeScript</big>
   </a>
