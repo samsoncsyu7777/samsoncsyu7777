@@ -118,7 +118,7 @@
 ```diff
 - Tech Stack: TypeScript, React, Material-UI, Node.js, Express, and MongoDB
 - Authentication: JWT and Token
-- Work in a Team of 3
+- Work in a remote agile team of 3 full stack developers using Zenhub for managing tickets
 
 My Contributions:
 + UI design using Material-UI
@@ -138,7 +138,7 @@ My Contributions:
 ```diff
 - Front End Tech Stack: SwiftUI, Java, XML
 - Back End Tech Stack: Java, PostgreSQL, CI/CD to AWS, Soundpays Payment API, Square Payment API
-- Work in a Team of 2
+- Work in a remote agile team of 2 full stack developers
 
 My Contributions:
 + Create UI for both iOS and Android Applications
