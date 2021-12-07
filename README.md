@@ -122,7 +122,7 @@
 
 My Contributions:
 + UI design using Material-UI
-+ Form and Submit using Formit library
++ Create Form using Formit library
 + Front End Sensitive Information Storage using useContext
 + Protect Logged In Pages with Protected Routes
 + Create Route for Image Storage in AWS S3 using Multer in Back End
