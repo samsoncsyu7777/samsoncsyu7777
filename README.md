@@ -114,10 +114,26 @@
 
 ## Essential Projects in Commerce and Education
 
-### [1. Pet Sitter Web Application](https://github.com/hatchways/team-snowman)
+### [1. Restaurant Web Application](https://chattersushi.com)
+```diff
+- Front End Tech Stack: TypeScript, React, Redux, Material-UI, Firebase
+- Back End Tech Stack: Node.js, Express, MongoDB, Heroku, Stripe
+- Freelance business
+
+My Contributions:
++ UI design using Material-UI
++ Front End Global Data Storage using Redux
++ Create online order and setup Stripe payment
++ Connect to MongoDB Atlas and create documents for new orders
++ Send email to the client after the completion of a payment
++ Deploy React app to Firebase and Express API to Heroku
++ Create Image Animations
+```
+
+### [2. Pet Sitter Web Application](https://github.com/hatchways/team-snowman)
 ```diff
 - Tech Stack: TypeScript, React, Material-UI, Node.js, Express, and MongoDB
-- Authentication: JWT and Token
+- Authentication: JWT and Cookies
 - Work in a remote agile team of 3 full stack developers using Zenhub for managing tickets
 
 My Contributions:
@@ -134,7 +150,7 @@ My Contributions:
 + Product Tour using reactour library
 ```
 
-### [2. iOS and Android Point of Sale Applications(Private Products)](http://soundpays.com/wp/company/)
+### [3. iOS and Android Point of Sale Applications(Private Products)](http://soundpays.com/wp/company/)
 ```diff
 - Front End Tech Stack: SwiftUI, Java, XML
 - Back End Tech Stack: Java, PostgreSQL, CI/CD to AWS, Soundpays Payment API, Square Payment API
@@ -158,7 +174,7 @@ My Contributions:
 + Calculate Order Total in Back End with Quantity, Price, and Discount for payment
 ```
 
-### [3. Mathematics Instant Response Mock Exam Web Application(Private Product)](https://fractionmultiplydivide.web.app/?unit=0)
+### [4. Mathematics Instant Response Mock Exam Web Application(Private Product)](https://fractionmultiplydivide.web.app/?unit=0)
 ```diff
 - Front End Tech Stack: React, Material-UI, Firebase
 - Back End Tech Stack: Node.js, Express, Heroku, FireStore, Stripe API
@@ -177,7 +193,7 @@ My Contributions:
 + Deploy web application to Firebase
 ```
 
-### [4. Mathematics Instant Response Teaching Web Application](https://github.com/samsoncsyu7777/react-redux-typescript-multi-digit-division-with-questions)
+### [5. Mathematics Instant Response Teaching Web Application](https://github.com/samsoncsyu7777/react-redux-typescript-multi-digit-division-with-questions)
 ```diff
 - Tech Stack: TypeScript, Redux, React, Material-UI, Firebase
 - Personal Project Dedicated to Canada, US, UK, Austrilia, Hong Kong, Taiwan, and Macao Education Departments
@@ -191,7 +207,7 @@ My Contributions:
 + Deploy web application to Firebase
 ```
 
-### [5. Mathematics Interactive Teaching Android Applications](https://play.google.com/store/apps/details?id=com.samsoncsyu.hcfandlcm)
+### [6. Mathematics Interactive Teaching Android Applications](https://play.google.com/store/apps/details?id=com.samsoncsyu.hcfandlcm)
 ```diff
 - Tech Stack: React Native, React Native Paper, Android, Play Store
 - Personal Business
@@ -205,7 +221,7 @@ My Contributions:
 + Deploy applications to the Play Store
 ```
 
-### [6. Mathematics Interactive Mock Exam iOS Applications](https://drive.google.com/file/d/11fdSP9CW0v3TpnFuhES3dyb7M_NAPvfj/view?usp=sharing)
+### [7. Mathematics Interactive Mock Exam iOS Applications](https://drive.google.com/file/d/11fdSP9CW0v3TpnFuhES3dyb7M_NAPvfj/view?usp=sharing)
 ```diff
 - Tech Stack: Swift, iOS, App Store
 - Personal Business
